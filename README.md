@@ -2,7 +2,8 @@
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning Machine Learning And Web Development
 - 💞️ I’m looking to collaborate on projects for data analytics, and advanced data pre processing techniques and outlier detections
-- 📫 How to reach me mailto: saimadhavgvs@gmail.com
+- 📫 How to reach me?
+- Mail:saimadhavgvs@gmail.com
 
 <!---
 gvssaimadhav/gvssaimadhav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
