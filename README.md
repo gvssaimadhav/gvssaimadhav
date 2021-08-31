@@ -1,13 +1,16 @@
-- 👋 Hi, I’m @gvssaimadhav
-- 👀 I’m interested in Artificial Intelligence & Machine Learning
-- 🌱 I’m currently learning Machine Learning, Web Development, Java And Python Programming, Data Mining, Deep Learning.
-- 💞️ I’m looking to collaborate on projects for data analytics, and advanced data pre processing techniques and outlier detections
-- 📫 For Collaborations, Contact me @ saimadhavgvs@gmail.com
-- Technical Lead @ OSC-VIT-AP
-- Completed Machine Learning Specialisation Course on Internshala.
-- Looking to learn advanced text mining and data mining techniques.
-- Learnt Basics of Web Development, with Skills Such as Coding in HTML, CSS, JavaScript and Looking to Become an advanced coder in Java, Python
-<!---
-gvssaimadhav/gvssaimadhav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1 align="center">About  SAI MADHAV, ( #gvssaimadhav)</h1>
+<h3 align="center">Sophomore | Data Science And Cybersecurity Aspirant | ML, CyberSecurity Enthusiast | Gathering Skills </h3>
+<h5 align="center"> Learning Java,Python,R and Mobile Application Development | Trying to make ML Models | Thinking ...</h5>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=gvssaimadhav&label=Profile%20views&color=0eb413&style=flat" alt="gvssaimadhav" /> </p>
+
+-  🌀 I am currently **Learning Machine Learning Model Deployment**.
+
+-  🌱 I am learning **Android App Development** for now.
+
+-  👨‍💻 Some of my projects are available at [Github](https://github.com/gvssaimadhav), Trust me I will add more soon.
+
+-  💬 Ask me about **My Projects or Data Science! Maybe I Can Help You**.
+
+-  📫 How to reach me **saimadhavgvs@gmail.com** or check out the **Connect with Me** section below.
+
