@@ -14,5 +14,5 @@
 
 -  📫 How to reach me **saimadhavgvs@gmail.com** or check out the **Connect with Me** section below.
 
-- View My Portfolio At:   https://gvssaimadhav.github.io
+- View My Portfolio At:   https://gvssmadhav.tech
 
