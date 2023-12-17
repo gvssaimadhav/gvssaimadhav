@@ -4,7 +4,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gvssaimadhav&label=Profile%20views&color=0eb413&style=flat" alt="gvssaimadhav" /> </p>
 
--  🌱 I am learning **DevOps & Cloud Computing** for now.
+-  🌱 I am learning **Generative AI & Deep Learning** for now.
 
 -  👨‍💻 Some of my projects are available at [Github](https://github.com/gvssaimadhav).
 
